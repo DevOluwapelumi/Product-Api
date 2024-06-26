@@ -1,7 +1,7 @@
 <template>
     <nav class="flex items-center justify-between shadow sticky-top p-2 md:p-4 flex-col md:flex-row">
       <div class="flex items-center justify-center w-full my-1 md:my-0">
-        <h2 class="text-2xl md:text-3xl text-blue-600 font-bold">Oluwapelumi's Store</h2>
+        <h2 class="text-2xl md:text-3xl text-blue-600 font-bold">Product Api</h2>
       </div>
   
       <div class="flex items-center justify-center w-full">
